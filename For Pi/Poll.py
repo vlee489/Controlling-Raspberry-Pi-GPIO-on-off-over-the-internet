@@ -39,7 +39,7 @@ GPIO.setup(THREE, GPIO.OUT)
 
 
 #replace the http://YourWebsite.com/test.php with where your test.php is located.
-response = requests.get(http://yourwebsite.com/text.php')
+response = requests.get('http://yourwebsite.com/text.php')
 
 #replace the http://YourWebsite.com/test.php with where your test.php is located.
 while response.text != 'exit':
