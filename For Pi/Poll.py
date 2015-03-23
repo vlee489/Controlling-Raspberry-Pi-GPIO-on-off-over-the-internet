@@ -11,7 +11,7 @@ import RPi.GPIO as GPIO
 #This is used to sleep the code a the end.
 import time
 
-#Requests is the ONE that is need to be installed with "sudo apt--get install python-requests" this lets us to grab and interpret PHP
+#Requests is the ONE that is need to be installed with "sudo apt-get install python-requests" this lets us to grab and interpret PHP
 import requests
 
 import os
